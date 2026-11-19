@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Secrets and local configuration
+.env
+
+# Local databases and their journals
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Generated outputs
+runs/
+outputs/
+results/
+*.log
+
+# Local datasets and model weights
+data/
+models/*.pt
+weights/
+/Roadsentinel_datasets/
+*.pt
+*.onnx
+
+# Temporary files
+*.tmp
+*.bak
+tests/tmp*/
+
+# OS and editor artifacts
+.idea/
+.DS_Store
+Thumbs.db
+
+# Video samples and generated experiment renders
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Machine-local editor configuration
+.vscode/
+
+# Historical local backup copies
+*backup*
+*_before_*
+**/backups/
+
+# Generated experiment data and frame captures
+experiments/**/*.csv
+experiments/**/*.jpg

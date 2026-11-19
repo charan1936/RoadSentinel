@@ -1,0 +1,3722 @@
+{
+  "409": {
+    "baseline": {
+      "detection_count": 19,
+      "overlaps": {
+        "total": {
+          "0.3": 2,
+          "0.5": 2
+        },
+        "same_class": {
+          "0.3": 2,
+          "0.5": 2
+        },
+        "different_class": {
+          "0.3": 0,
+          "0.5": 0
+        }
+      },
+      "detections": [
+        {
+          "frame": 409,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.8533,
+          "x1": 111.21,
+          "y1": 584.95,
+          "x2": 475.48,
+          "y2": 756.61
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.84364,
+          "x1": 602.23,
+          "y1": 526.79,
+          "x2": 802.86,
+          "y2": 672.45
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.83027,
+          "x1": 853.23,
+          "y1": 529.04,
+          "x2": 1038.78,
+          "y2": 674.33
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.82095,
+          "x1": 1493.56,
+          "y1": 721.24,
+          "x2": 1706.13,
+          "y2": 1049.88
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.80501,
+          "x1": 592.26,
+          "y1": 842.45,
+          "x2": 712.12,
+          "y2": 1079.79
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.75568,
+          "x1": 1272.43,
+          "y1": 540.33,
+          "x2": 1329.1,
+          "y2": 693.09
+        },
+        {
+          "frame": 409,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.75193,
+          "x1": 982.99,
+          "y1": 726.73,
+          "x2": 1180.85,
+          "y2": 869.54
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.68069,
+          "x1": 1646.82,
+          "y1": 483.27,
+          "x2": 1715.83,
+          "y2": 551.62
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.58785,
+          "x1": 1300.44,
+          "y1": 432.19,
+          "x2": 1389.68,
+          "y2": 490.48
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.5606,
+          "x1": 498.86,
+          "y1": 554.36,
+          "x2": 609.53,
+          "y2": 655.58
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.54586,
+          "x1": 1574.05,
+          "y1": 432.67,
+          "x2": 1684.78,
+          "y2": 497.38
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.52327,
+          "x1": 1577.39,
+          "y1": 432.47,
+          "x2": 1649.96,
+          "y2": 495.99
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.51875,
+          "x1": 305.91,
+          "y1": 671.31,
+          "x2": 382.0,
+          "y2": 881.04
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.50174,
+          "x1": 1718.07,
+          "y1": 583.27,
+          "x2": 1795.31,
+          "y2": 787.6
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.43792,
+          "x1": 779.93,
+          "y1": 536.71,
+          "x2": 859.84,
+          "y2": 618.87
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.38062,
+          "x1": 1433.15,
+          "y1": 454.01,
+          "x2": 1465.51,
+          "y2": 499.39
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.37338,
+          "x1": 1813.58,
+          "y1": 426.03,
+          "x2": 1904.36,
+          "y2": 500.09
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.36215,
+          "x1": 1033.87,
+          "y1": 559.3,
+          "x2": 1176.78,
+          "y2": 647.53
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.36181,
+          "x1": 1690.43,
+          "y1": 582.3,
+          "x2": 1791.26,
+          "y2": 784.08
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 19,
+      "overlaps": {
+        "total": {
+          "0.3": 2,
+          "0.5": 2
+        },
+        "same_class": {
+          "0.3": 2,
+          "0.5": 2
+        },
+        "different_class": {
+          "0.3": 0,
+          "0.5": 0
+        }
+      },
+      "detections": [
+        {
+          "frame": 409,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.8533,
+          "x1": 111.21,
+          "y1": 584.95,
+          "x2": 475.48,
+          "y2": 756.61
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.84364,
+          "x1": 602.23,
+          "y1": 526.79,
+          "x2": 802.86,
+          "y2": 672.45
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.83027,
+          "x1": 853.23,
+          "y1": 529.04,
+          "x2": 1038.78,
+          "y2": 674.33
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.82095,
+          "x1": 1493.56,
+          "y1": 721.24,
+          "x2": 1706.13,
+          "y2": 1049.88
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.80501,
+          "x1": 592.26,
+          "y1": 842.45,
+          "x2": 712.12,
+          "y2": 1079.79
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.75568,
+          "x1": 1272.43,
+          "y1": 540.33,
+          "x2": 1329.1,
+          "y2": 693.09
+        },
+        {
+          "frame": 409,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.75193,
+          "x1": 982.99,
+          "y1": 726.73,
+          "x2": 1180.85,
+          "y2": 869.54
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.68069,
+          "x1": 1646.82,
+          "y1": 483.27,
+          "x2": 1715.83,
+          "y2": 551.62
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.58785,
+          "x1": 1300.44,
+          "y1": 432.19,
+          "x2": 1389.68,
+          "y2": 490.48
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.5606,
+          "x1": 498.86,
+          "y1": 554.36,
+          "x2": 609.53,
+          "y2": 655.58
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.54586,
+          "x1": 1574.05,
+          "y1": 432.67,
+          "x2": 1684.78,
+          "y2": 497.38
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.52327,
+          "x1": 1577.39,
+          "y1": 432.47,
+          "x2": 1649.96,
+          "y2": 495.99
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.51875,
+          "x1": 305.91,
+          "y1": 671.31,
+          "x2": 382.0,
+          "y2": 881.04
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.50174,
+          "x1": 1718.07,
+          "y1": 583.27,
+          "x2": 1795.31,
+          "y2": 787.6
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.43792,
+          "x1": 779.93,
+          "y1": 536.71,
+          "x2": 859.84,
+          "y2": 618.87
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.38062,
+          "x1": 1433.15,
+          "y1": 454.01,
+          "x2": 1465.51,
+          "y2": 499.39
+        },
+        {
+          "frame": 409,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.37338,
+          "x1": 1813.58,
+          "y1": 426.03,
+          "x2": 1904.36,
+          "y2": 500.09
+        },
+        {
+          "frame": 409,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.36215,
+          "x1": 1033.87,
+          "y1": 559.3,
+          "x2": 1176.78,
+          "y2": 647.53
+        },
+        {
+          "frame": 409,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.36181,
+          "x1": 1690.43,
+          "y1": 582.3,
+          "x2": 1791.26,
+          "y2": 784.08
+        }
+      ]
+    }
+  },
+  "434": {
+    "baseline": {
+      "detection_count": 25,
+      "overlaps": {
+        "total": {
+          "0.3": 8,
+          "0.5": 5
+        },
+        "same_class": {
+          "0.3": 4,
+          "0.5": 3
+        },
+        "different_class": {
+          "0.3": 4,
+          "0.5": 2
+        }
+      },
+      "detections": [
+        {
+          "frame": 434,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.91171,
+          "x1": 1536.2,
+          "y1": 893.29,
+          "x2": 1701.39,
+          "y2": 1080.0
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.89482,
+          "x1": 665.0,
+          "y1": 500.45,
+          "x2": 877.96,
+          "y2": 605.74
+        },
+        {
+          "frame": 434,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.87311,
+          "x1": 1409.55,
+          "y1": 747.55,
+          "x2": 1539.7,
+          "y2": 1080.0
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.85433,
+          "x1": 437.92,
+          "y1": 531.83,
+          "x2": 624.81,
+          "y2": 643.55
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.82598,
+          "x1": 599.75,
+          "y1": 458.35,
+          "x2": 673.01,
+          "y2": 515.95
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.81809,
+          "x1": 501.21,
+          "y1": 581.94,
+          "x2": 884.81,
+          "y2": 730.14
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.79832,
+          "x1": 903.63,
+          "y1": 488.25,
+          "x2": 1033.08,
+          "y2": 573.95
+        },
+        {
+          "frame": 434,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.7738,
+          "x1": 206.77,
+          "y1": 544.28,
+          "x2": 467.41,
+          "y2": 735.64
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.68983,
+          "x1": 501.6,
+          "y1": 524.52,
+          "x2": 886.5,
+          "y2": 726.29
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.68442,
+          "x1": 1341.15,
+          "y1": 481.92,
+          "x2": 1382.51,
+          "y2": 549.62
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.6483,
+          "x1": 1128.71,
+          "y1": 570.87,
+          "x2": 1282.62,
+          "y2": 760.84
+        },
+        {
+          "frame": 434,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.59633,
+          "x1": 660.33,
+          "y1": 660.63,
+          "x2": 811.46,
+          "y2": 797.8
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.5816,
+          "x1": 1767.85,
+          "y1": 463.58,
+          "x2": 1817.92,
+          "y2": 520.2
+        },
+        {
+          "frame": 434,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.58144,
+          "x1": 592.71,
+          "y1": 654.64,
+          "x2": 810.16,
+          "y2": 793.55
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.56759,
+          "x1": 1112.78,
+          "y1": 503.88,
+          "x2": 1179.24,
+          "y2": 593.27
+        },
+        {
+          "frame": 434,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.53624,
+          "x1": 1341.28,
+          "y1": 464.93,
+          "x2": 1381.19,
+          "y2": 538.27
+        },
+        {
+          "frame": 434,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52435,
+          "x1": 674.13,
+          "y1": 595.24,
+          "x2": 761.07,
+          "y2": 800.02
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.52322,
+          "x1": 1628.81,
+          "y1": 454.1,
+          "x2": 1698.24,
+          "y2": 502.62
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.47627,
+          "x1": 0.0,
+          "y1": 548.14,
+          "x2": 160.49,
+          "y2": 720.96
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.46331,
+          "x1": 1244.01,
+          "y1": 498.06,
+          "x2": 1300.1,
+          "y2": 574.67
+        },
+        {
+          "frame": 434,
+          "class_id": 5,
+          "class_name": "truck",
+          "confidence": 0.4548,
+          "x1": 504.52,
+          "y1": 409.4,
+          "x2": 631.55,
+          "y2": 508.56
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.44229,
+          "x1": 1280.35,
+          "y1": 469.96,
+          "x2": 1319.39,
+          "y2": 512.49
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.43649,
+          "x1": 1178.38,
+          "y1": 463.76,
+          "x2": 1247.43,
+          "y2": 522.44
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.40284,
+          "x1": 499.14,
+          "y1": 580.49,
+          "x2": 769.66,
+          "y2": 727.7
+        },
+        {
+          "frame": 434,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35266,
+          "x1": 1773.53,
+          "y1": 447.68,
+          "x2": 1817.48,
+          "y2": 515.86
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 25,
+      "overlaps": {
+        "total": {
+          "0.3": 8,
+          "0.5": 5
+        },
+        "same_class": {
+          "0.3": 4,
+          "0.5": 3
+        },
+        "different_class": {
+          "0.3": 4,
+          "0.5": 2
+        }
+      },
+      "detections": [
+        {
+          "frame": 434,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.91171,
+          "x1": 1536.2,
+          "y1": 893.29,
+          "x2": 1701.39,
+          "y2": 1080.0
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.89482,
+          "x1": 665.0,
+          "y1": 500.45,
+          "x2": 877.96,
+          "y2": 605.74
+        },
+        {
+          "frame": 434,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.87311,
+          "x1": 1409.55,
+          "y1": 747.55,
+          "x2": 1539.7,
+          "y2": 1080.0
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.85433,
+          "x1": 437.92,
+          "y1": 531.83,
+          "x2": 624.81,
+          "y2": 643.55
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.82598,
+          "x1": 599.75,
+          "y1": 458.35,
+          "x2": 673.01,
+          "y2": 515.95
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.81809,
+          "x1": 501.21,
+          "y1": 581.94,
+          "x2": 884.81,
+          "y2": 730.14
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.79832,
+          "x1": 903.63,
+          "y1": 488.25,
+          "x2": 1033.08,
+          "y2": 573.95
+        },
+        {
+          "frame": 434,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.7738,
+          "x1": 206.77,
+          "y1": 544.28,
+          "x2": 467.41,
+          "y2": 735.64
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.68983,
+          "x1": 501.6,
+          "y1": 524.52,
+          "x2": 886.5,
+          "y2": 726.29
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.68442,
+          "x1": 1341.15,
+          "y1": 481.92,
+          "x2": 1382.51,
+          "y2": 549.62
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.6483,
+          "x1": 1128.71,
+          "y1": 570.87,
+          "x2": 1282.62,
+          "y2": 760.84
+        },
+        {
+          "frame": 434,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.59633,
+          "x1": 660.33,
+          "y1": 660.63,
+          "x2": 811.46,
+          "y2": 797.8
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.5816,
+          "x1": 1767.85,
+          "y1": 463.58,
+          "x2": 1817.92,
+          "y2": 520.2
+        },
+        {
+          "frame": 434,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.58144,
+          "x1": 592.71,
+          "y1": 654.64,
+          "x2": 810.16,
+          "y2": 793.55
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.56759,
+          "x1": 1112.78,
+          "y1": 503.88,
+          "x2": 1179.24,
+          "y2": 593.27
+        },
+        {
+          "frame": 434,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.53624,
+          "x1": 1341.28,
+          "y1": 464.93,
+          "x2": 1381.19,
+          "y2": 538.27
+        },
+        {
+          "frame": 434,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52435,
+          "x1": 674.13,
+          "y1": 595.24,
+          "x2": 761.07,
+          "y2": 800.02
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.52322,
+          "x1": 1628.81,
+          "y1": 454.1,
+          "x2": 1698.24,
+          "y2": 502.62
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.47627,
+          "x1": 0.0,
+          "y1": 548.14,
+          "x2": 160.49,
+          "y2": 720.96
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.46331,
+          "x1": 1244.01,
+          "y1": 498.06,
+          "x2": 1300.1,
+          "y2": 574.67
+        },
+        {
+          "frame": 434,
+          "class_id": 5,
+          "class_name": "truck",
+          "confidence": 0.4548,
+          "x1": 504.52,
+          "y1": 409.4,
+          "x2": 631.55,
+          "y2": 508.56
+        },
+        {
+          "frame": 434,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.44229,
+          "x1": 1280.35,
+          "y1": 469.96,
+          "x2": 1319.39,
+          "y2": 512.49
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.43649,
+          "x1": 1178.38,
+          "y1": 463.76,
+          "x2": 1247.43,
+          "y2": 522.44
+        },
+        {
+          "frame": 434,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.40284,
+          "x1": 499.14,
+          "y1": 580.49,
+          "x2": 769.66,
+          "y2": 727.7
+        },
+        {
+          "frame": 434,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35266,
+          "x1": 1773.53,
+          "y1": 447.68,
+          "x2": 1817.48,
+          "y2": 515.86
+        }
+      ]
+    }
+  },
+  "492": {
+    "baseline": {
+      "detection_count": 16,
+      "overlaps": {
+        "total": {
+          "0.3": 2,
+          "0.5": 2
+        },
+        "same_class": {
+          "0.3": 1,
+          "0.5": 1
+        },
+        "different_class": {
+          "0.3": 1,
+          "0.5": 1
+        }
+      },
+      "detections": [
+        {
+          "frame": 492,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.9171,
+          "x1": 1292.52,
+          "y1": 488.84,
+          "x2": 1484.81,
+          "y2": 581.28
+        },
+        {
+          "frame": 492,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.90512,
+          "x1": 139.33,
+          "y1": 659.33,
+          "x2": 602.83,
+          "y2": 1075.01
+        },
+        {
+          "frame": 492,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.79186,
+          "x1": 898.72,
+          "y1": 451.58,
+          "x2": 1000.73,
+          "y2": 513.19
+        },
+        {
+          "frame": 492,
+          "class_id": 7,
+          "class_name": "bus",
+          "confidence": 0.76289,
+          "x1": 1517.24,
+          "y1": 421.98,
+          "x2": 1826.46,
+          "y2": 576.26
+        },
+        {
+          "frame": 492,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.63914,
+          "x1": 786.87,
+          "y1": 440.09,
+          "x2": 877.25,
+          "y2": 505.91
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.62472,
+          "x1": 1662.62,
+          "y1": 821.59,
+          "x2": 1777.22,
+          "y2": 1080.0
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.60718,
+          "x1": 127.15,
+          "y1": 631.58,
+          "x2": 211.66,
+          "y2": 855.61
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.60595,
+          "x1": 746.35,
+          "y1": 462.39,
+          "x2": 797.11,
+          "y2": 513.35
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.57864,
+          "x1": 1214.81,
+          "y1": 494.91,
+          "x2": 1287.3,
+          "y2": 571.94
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.49478,
+          "x1": 581.13,
+          "y1": 470.91,
+          "x2": 606.64,
+          "y2": 543.5
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.49201,
+          "x1": 1505.05,
+          "y1": 495.35,
+          "x2": 1632.6,
+          "y2": 574.07
+        },
+        {
+          "frame": 492,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.45062,
+          "x1": 1217.03,
+          "y1": 476.52,
+          "x2": 1275.54,
+          "y2": 564.6
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.4439,
+          "x1": 327.87,
+          "y1": 488.72,
+          "x2": 406.19,
+          "y2": 569.59
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.42986,
+          "x1": 614.33,
+          "y1": 451.97,
+          "x2": 641.71,
+          "y2": 541.94
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.40083,
+          "x1": 499.49,
+          "y1": 458.47,
+          "x2": 536.09,
+          "y2": 547.98
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.35258,
+          "x1": 1662.42,
+          "y1": 822.73,
+          "x2": 1775.31,
+          "y2": 992.85
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 16,
+      "overlaps": {
+        "total": {
+          "0.3": 2,
+          "0.5": 2
+        },
+        "same_class": {
+          "0.3": 1,
+          "0.5": 1
+        },
+        "different_class": {
+          "0.3": 1,
+          "0.5": 1
+        }
+      },
+      "detections": [
+        {
+          "frame": 492,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.9171,
+          "x1": 1292.52,
+          "y1": 488.84,
+          "x2": 1484.81,
+          "y2": 581.28
+        },
+        {
+          "frame": 492,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.90512,
+          "x1": 139.33,
+          "y1": 659.33,
+          "x2": 602.83,
+          "y2": 1075.01
+        },
+        {
+          "frame": 492,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.79186,
+          "x1": 898.72,
+          "y1": 451.58,
+          "x2": 1000.73,
+          "y2": 513.19
+        },
+        {
+          "frame": 492,
+          "class_id": 7,
+          "class_name": "bus",
+          "confidence": 0.76289,
+          "x1": 1517.24,
+          "y1": 421.98,
+          "x2": 1826.46,
+          "y2": 576.26
+        },
+        {
+          "frame": 492,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.63914,
+          "x1": 786.87,
+          "y1": 440.09,
+          "x2": 877.25,
+          "y2": 505.91
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.62472,
+          "x1": 1662.62,
+          "y1": 821.59,
+          "x2": 1777.22,
+          "y2": 1080.0
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.60718,
+          "x1": 127.15,
+          "y1": 631.58,
+          "x2": 211.66,
+          "y2": 855.61
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.60595,
+          "x1": 746.35,
+          "y1": 462.39,
+          "x2": 797.11,
+          "y2": 513.35
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.57864,
+          "x1": 1214.81,
+          "y1": 494.91,
+          "x2": 1287.3,
+          "y2": 571.94
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.49478,
+          "x1": 581.13,
+          "y1": 470.91,
+          "x2": 606.64,
+          "y2": 543.5
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.49201,
+          "x1": 1505.05,
+          "y1": 495.35,
+          "x2": 1632.6,
+          "y2": 574.07
+        },
+        {
+          "frame": 492,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.45062,
+          "x1": 1217.03,
+          "y1": 476.52,
+          "x2": 1275.54,
+          "y2": 564.6
+        },
+        {
+          "frame": 492,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.4439,
+          "x1": 327.87,
+          "y1": 488.72,
+          "x2": 406.19,
+          "y2": 569.59
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.42986,
+          "x1": 614.33,
+          "y1": 451.97,
+          "x2": 641.71,
+          "y2": 541.94
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.40083,
+          "x1": 499.49,
+          "y1": 458.47,
+          "x2": 536.09,
+          "y2": 547.98
+        },
+        {
+          "frame": 492,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.35258,
+          "x1": 1662.42,
+          "y1": 822.73,
+          "x2": 1775.31,
+          "y2": 992.85
+        }
+      ]
+    }
+  },
+  "532": {
+    "baseline": {
+      "detection_count": 21,
+      "overlaps": {
+        "total": {
+          "0.3": 4,
+          "0.5": 4
+        },
+        "same_class": {
+          "0.3": 3,
+          "0.5": 3
+        },
+        "different_class": {
+          "0.3": 1,
+          "0.5": 1
+        }
+      },
+      "detections": [
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.84684,
+          "x1": 1392.93,
+          "y1": 479.65,
+          "x2": 1615.56,
+          "y2": 602.52
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.67754,
+          "x1": 461.96,
+          "y1": 502.55,
+          "x2": 512.53,
+          "y2": 576.27
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.67006,
+          "x1": 752.38,
+          "y1": 451.12,
+          "x2": 781.23,
+          "y2": 525.65
+        },
+        {
+          "frame": 532,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.6558,
+          "x1": 474.07,
+          "y1": 460.44,
+          "x2": 587.44,
+          "y2": 552.5
+        },
+        {
+          "frame": 532,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.63084,
+          "x1": 79.75,
+          "y1": 638.98,
+          "x2": 311.68,
+          "y2": 782.52
+        },
+        {
+          "frame": 532,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.62143,
+          "x1": 160.53,
+          "y1": 584.01,
+          "x2": 250.05,
+          "y2": 759.39
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.61651,
+          "x1": 686.36,
+          "y1": 445.22,
+          "x2": 718.55,
+          "y2": 532.85
+        },
+        {
+          "frame": 532,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.607,
+          "x1": 840.45,
+          "y1": 444.31,
+          "x2": 895.33,
+          "y2": 504.06
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.57618,
+          "x1": 1253.82,
+          "y1": 467.42,
+          "x2": 1391.52,
+          "y2": 549.44
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.57562,
+          "x1": 1144.91,
+          "y1": 463.9,
+          "x2": 1249.2,
+          "y2": 549.56
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.54081,
+          "x1": 1101.98,
+          "y1": 461.46,
+          "x2": 1252.4,
+          "y2": 546.64
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.53069,
+          "x1": 813.34,
+          "y1": 441.17,
+          "x2": 844.48,
+          "y2": 514.82
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.52901,
+          "x1": 1165.94,
+          "y1": 480.07,
+          "x2": 1202.21,
+          "y2": 575.62
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.51773,
+          "x1": 943.35,
+          "y1": 452.6,
+          "x2": 1013.7,
+          "y2": 506.32
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.45126,
+          "x1": 993.65,
+          "y1": 467.82,
+          "x2": 1036.09,
+          "y2": 527.97
+        },
+        {
+          "frame": 532,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.44383,
+          "x1": 881.34,
+          "y1": 442.9,
+          "x2": 939.2,
+          "y2": 520.05
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.42774,
+          "x1": 930.28,
+          "y1": 451.12,
+          "x2": 1002.34,
+          "y2": 499.1
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.42513,
+          "x1": 1290.73,
+          "y1": 463.58,
+          "x2": 1388.75,
+          "y2": 547.39
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.40292,
+          "x1": 283.4,
+          "y1": 477.76,
+          "x2": 380.46,
+          "y2": 559.74
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.36218,
+          "x1": 1690.81,
+          "y1": 494.0,
+          "x2": 1774.5,
+          "y2": 576.43
+        },
+        {
+          "frame": 532,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35907,
+          "x1": 464.34,
+          "y1": 478.49,
+          "x2": 508.7,
+          "y2": 559.52
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 21,
+      "overlaps": {
+        "total": {
+          "0.3": 4,
+          "0.5": 4
+        },
+        "same_class": {
+          "0.3": 3,
+          "0.5": 3
+        },
+        "different_class": {
+          "0.3": 1,
+          "0.5": 1
+        }
+      },
+      "detections": [
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.84684,
+          "x1": 1392.93,
+          "y1": 479.65,
+          "x2": 1615.56,
+          "y2": 602.52
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.67754,
+          "x1": 461.96,
+          "y1": 502.55,
+          "x2": 512.53,
+          "y2": 576.27
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.67006,
+          "x1": 752.38,
+          "y1": 451.12,
+          "x2": 781.23,
+          "y2": 525.65
+        },
+        {
+          "frame": 532,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.6558,
+          "x1": 474.07,
+          "y1": 460.44,
+          "x2": 587.44,
+          "y2": 552.5
+        },
+        {
+          "frame": 532,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.63084,
+          "x1": 79.75,
+          "y1": 638.98,
+          "x2": 311.68,
+          "y2": 782.52
+        },
+        {
+          "frame": 532,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.62143,
+          "x1": 160.53,
+          "y1": 584.01,
+          "x2": 250.05,
+          "y2": 759.39
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.61651,
+          "x1": 686.36,
+          "y1": 445.22,
+          "x2": 718.55,
+          "y2": 532.85
+        },
+        {
+          "frame": 532,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.607,
+          "x1": 840.45,
+          "y1": 444.31,
+          "x2": 895.33,
+          "y2": 504.06
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.57618,
+          "x1": 1253.82,
+          "y1": 467.42,
+          "x2": 1391.52,
+          "y2": 549.44
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.57562,
+          "x1": 1144.91,
+          "y1": 463.9,
+          "x2": 1249.2,
+          "y2": 549.56
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.54081,
+          "x1": 1101.98,
+          "y1": 461.46,
+          "x2": 1252.4,
+          "y2": 546.64
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.53069,
+          "x1": 813.34,
+          "y1": 441.17,
+          "x2": 844.48,
+          "y2": 514.82
+        },
+        {
+          "frame": 532,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.52901,
+          "x1": 1165.94,
+          "y1": 480.07,
+          "x2": 1202.21,
+          "y2": 575.62
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.51773,
+          "x1": 943.35,
+          "y1": 452.6,
+          "x2": 1013.7,
+          "y2": 506.32
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.45126,
+          "x1": 993.65,
+          "y1": 467.82,
+          "x2": 1036.09,
+          "y2": 527.97
+        },
+        {
+          "frame": 532,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.44383,
+          "x1": 881.34,
+          "y1": 442.9,
+          "x2": 939.2,
+          "y2": 520.05
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.42774,
+          "x1": 930.28,
+          "y1": 451.12,
+          "x2": 1002.34,
+          "y2": 499.1
+        },
+        {
+          "frame": 532,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.42513,
+          "x1": 1290.73,
+          "y1": 463.58,
+          "x2": 1388.75,
+          "y2": 547.39
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.40292,
+          "x1": 283.4,
+          "y1": 477.76,
+          "x2": 380.46,
+          "y2": 559.74
+        },
+        {
+          "frame": 532,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.36218,
+          "x1": 1690.81,
+          "y1": 494.0,
+          "x2": 1774.5,
+          "y2": 576.43
+        },
+        {
+          "frame": 532,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35907,
+          "x1": 464.34,
+          "y1": 478.49,
+          "x2": 508.7,
+          "y2": 559.52
+        }
+      ]
+    }
+  },
+  "593": {
+    "baseline": {
+      "detection_count": 22,
+      "overlaps": {
+        "total": {
+          "0.3": 4,
+          "0.5": 3
+        },
+        "same_class": {
+          "0.3": 1,
+          "0.5": 1
+        },
+        "different_class": {
+          "0.3": 3,
+          "0.5": 2
+        }
+      },
+      "detections": [
+        {
+          "frame": 593,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.78303,
+          "x1": 146.74,
+          "y1": 596.87,
+          "x2": 343.21,
+          "y2": 781.5
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.74496,
+          "x1": 1324.09,
+          "y1": 513.87,
+          "x2": 1390.45,
+          "y2": 613.61
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.72169,
+          "x1": 1418.53,
+          "y1": 471.76,
+          "x2": 1540.83,
+          "y2": 570.07
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.71004,
+          "x1": 516.71,
+          "y1": 487.29,
+          "x2": 623.29,
+          "y2": 561.38
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.64466,
+          "x1": 1485.35,
+          "y1": 506.42,
+          "x2": 1550.13,
+          "y2": 598.82
+        },
+        {
+          "frame": 593,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.58773,
+          "x1": 1597.79,
+          "y1": 468.21,
+          "x2": 1688.25,
+          "y2": 574.58
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.54121,
+          "x1": 985.21,
+          "y1": 460.7,
+          "x2": 1020.91,
+          "y2": 568.2
+        },
+        {
+          "frame": 593,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52716,
+          "x1": 1327.04,
+          "y1": 477.38,
+          "x2": 1387.92,
+          "y2": 595.73
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.51906,
+          "x1": 1556.04,
+          "y1": 519.6,
+          "x2": 1620.74,
+          "y2": 613.35
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.51429,
+          "x1": 818.69,
+          "y1": 486.07,
+          "x2": 856.23,
+          "y2": 590.68
+        },
+        {
+          "frame": 593,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.50002,
+          "x1": 1060.01,
+          "y1": 523.71,
+          "x2": 1280.8,
+          "y2": 783.05
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.48607,
+          "x1": 27.43,
+          "y1": 506.63,
+          "x2": 107.2,
+          "y2": 577.0
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.47358,
+          "x1": 1779.38,
+          "y1": 487.15,
+          "x2": 1813.41,
+          "y2": 538.18
+        },
+        {
+          "frame": 593,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.46852,
+          "x1": 841.32,
+          "y1": 442.87,
+          "x2": 911.33,
+          "y2": 530.85
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.44825,
+          "x1": 387.88,
+          "y1": 462.9,
+          "x2": 437.36,
+          "y2": 572.34
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.43265,
+          "x1": 1375.98,
+          "y1": 440.65,
+          "x2": 1462.86,
+          "y2": 516.32
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.40047,
+          "x1": 1864.1,
+          "y1": 439.32,
+          "x2": 1917.23,
+          "y2": 500.97
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.39198,
+          "x1": 1304.5,
+          "y1": 830.02,
+          "x2": 1605.95,
+          "y2": 1079.52
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.38791,
+          "x1": 1736.01,
+          "y1": 503.55,
+          "x2": 1781.44,
+          "y2": 585.13
+        },
+        {
+          "frame": 593,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.37899,
+          "x1": 1487.43,
+          "y1": 488.18,
+          "x2": 1546.57,
+          "y2": 582.06
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.37246,
+          "x1": 333.89,
+          "y1": 480.5,
+          "x2": 382.83,
+          "y2": 564.49
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.35664,
+          "x1": 316.95,
+          "y1": 482.47,
+          "x2": 381.1,
+          "y2": 565.14
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 22,
+      "overlaps": {
+        "total": {
+          "0.3": 4,
+          "0.5": 3
+        },
+        "same_class": {
+          "0.3": 1,
+          "0.5": 1
+        },
+        "different_class": {
+          "0.3": 3,
+          "0.5": 2
+        }
+      },
+      "detections": [
+        {
+          "frame": 593,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.78303,
+          "x1": 146.74,
+          "y1": 596.87,
+          "x2": 343.21,
+          "y2": 781.5
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.74496,
+          "x1": 1324.09,
+          "y1": 513.87,
+          "x2": 1390.45,
+          "y2": 613.61
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.72169,
+          "x1": 1418.53,
+          "y1": 471.76,
+          "x2": 1540.83,
+          "y2": 570.07
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.71004,
+          "x1": 516.71,
+          "y1": 487.29,
+          "x2": 623.29,
+          "y2": 561.38
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.64466,
+          "x1": 1485.35,
+          "y1": 506.42,
+          "x2": 1550.13,
+          "y2": 598.82
+        },
+        {
+          "frame": 593,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.58773,
+          "x1": 1597.79,
+          "y1": 468.21,
+          "x2": 1688.25,
+          "y2": 574.58
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.54121,
+          "x1": 985.21,
+          "y1": 460.7,
+          "x2": 1020.91,
+          "y2": 568.2
+        },
+        {
+          "frame": 593,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52716,
+          "x1": 1327.04,
+          "y1": 477.38,
+          "x2": 1387.92,
+          "y2": 595.73
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.51906,
+          "x1": 1556.04,
+          "y1": 519.6,
+          "x2": 1620.74,
+          "y2": 613.35
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.51429,
+          "x1": 818.69,
+          "y1": 486.07,
+          "x2": 856.23,
+          "y2": 590.68
+        },
+        {
+          "frame": 593,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.50002,
+          "x1": 1060.01,
+          "y1": 523.71,
+          "x2": 1280.8,
+          "y2": 783.05
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.48607,
+          "x1": 27.43,
+          "y1": 506.63,
+          "x2": 107.2,
+          "y2": 577.0
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.47358,
+          "x1": 1779.38,
+          "y1": 487.15,
+          "x2": 1813.41,
+          "y2": 538.18
+        },
+        {
+          "frame": 593,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.46852,
+          "x1": 841.32,
+          "y1": 442.87,
+          "x2": 911.33,
+          "y2": 530.85
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.44825,
+          "x1": 387.88,
+          "y1": 462.9,
+          "x2": 437.36,
+          "y2": 572.34
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.43265,
+          "x1": 1375.98,
+          "y1": 440.65,
+          "x2": 1462.86,
+          "y2": 516.32
+        },
+        {
+          "frame": 593,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.40047,
+          "x1": 1864.1,
+          "y1": 439.32,
+          "x2": 1917.23,
+          "y2": 500.97
+        },
+        {
+          "frame": 593,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.39198,
+          "x1": 1304.5,
+          "y1": 830.02,
+          "x2": 1605.95,
+          "y2": 1079.52
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.38791,
+          "x1": 1736.01,
+          "y1": 503.55,
+          "x2": 1781.44,
+          "y2": 585.13
+        },
+        {
+          "frame": 593,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.37899,
+          "x1": 1487.43,
+          "y1": 488.18,
+          "x2": 1546.57,
+          "y2": 582.06
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.37246,
+          "x1": 333.89,
+          "y1": 480.5,
+          "x2": 382.83,
+          "y2": 564.49
+        },
+        {
+          "frame": 593,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.35664,
+          "x1": 316.95,
+          "y1": 482.47,
+          "x2": 381.1,
+          "y2": 565.14
+        }
+      ]
+    }
+  },
+  "627": {
+    "baseline": {
+      "detection_count": 30,
+      "overlaps": {
+        "total": {
+          "0.3": 9,
+          "0.5": 2
+        },
+        "same_class": {
+          "0.3": 0,
+          "0.5": 0
+        },
+        "different_class": {
+          "0.3": 9,
+          "0.5": 2
+        }
+      },
+      "detections": [
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.90743,
+          "x1": 1384.9,
+          "y1": 563.74,
+          "x2": 1591.5,
+          "y2": 733.96
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.82265,
+          "x1": 625.43,
+          "y1": 539.37,
+          "x2": 734.81,
+          "y2": 704.01
+        },
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.7614,
+          "x1": 913.0,
+          "y1": 516.38,
+          "x2": 1062.91,
+          "y2": 640.8
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.75553,
+          "x1": 449.47,
+          "y1": 454.75,
+          "x2": 532.13,
+          "y2": 520.46
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.75183,
+          "x1": 762.21,
+          "y1": 545.0,
+          "x2": 842.75,
+          "y2": 674.88
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.75007,
+          "x1": 1238.38,
+          "y1": 657.55,
+          "x2": 1413.89,
+          "y2": 801.2
+        },
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.74007,
+          "x1": 1168.14,
+          "y1": 563.33,
+          "x2": 1405.38,
+          "y2": 735.71
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.72179,
+          "x1": 901.82,
+          "y1": 594.83,
+          "x2": 1025.85,
+          "y2": 775.32
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.7109,
+          "x1": 1093.95,
+          "y1": 528.06,
+          "x2": 1285.5,
+          "y2": 629.78
+        },
+        {
+          "frame": 627,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.69696,
+          "x1": 312.56,
+          "y1": 536.72,
+          "x2": 391.21,
+          "y2": 756.29
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.67163,
+          "x1": 1574.82,
+          "y1": 575.95,
+          "x2": 1681.79,
+          "y2": 720.06
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.66966,
+          "x1": 764.35,
+          "y1": 489.9,
+          "x2": 838.17,
+          "y2": 647.05
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.63347,
+          "x1": 1125.94,
+          "y1": 613.6,
+          "x2": 1252.49,
+          "y2": 785.5
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.58631,
+          "x1": 585.88,
+          "y1": 517.63,
+          "x2": 631.2,
+          "y2": 595.61
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.57861,
+          "x1": 1278.02,
+          "y1": 609.35,
+          "x2": 1382.18,
+          "y2": 766.92
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.57484,
+          "x1": 1713.17,
+          "y1": 574.0,
+          "x2": 1891.23,
+          "y2": 744.91
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.57148,
+          "x1": 773.78,
+          "y1": 487.51,
+          "x2": 871.93,
+          "y2": 558.28
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.55034,
+          "x1": 551.95,
+          "y1": 498.03,
+          "x2": 600.53,
+          "y2": 565.99
+        },
+        {
+          "frame": 627,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.53203,
+          "x1": 138.9,
+          "y1": 631.48,
+          "x2": 335.43,
+          "y2": 777.84
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.52765,
+          "x1": 27.27,
+          "y1": 503.83,
+          "x2": 105.83,
+          "y2": 577.37
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.50819,
+          "x1": 1861.37,
+          "y1": 683.5,
+          "x2": 1919.83,
+          "y2": 1048.56
+        },
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.50387,
+          "x1": 640.05,
+          "y1": 445.19,
+          "x2": 715.95,
+          "y2": 525.11
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.4885,
+          "x1": 902.47,
+          "y1": 529.29,
+          "x2": 1017.2,
+          "y2": 723.56
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.43187,
+          "x1": 643.01,
+          "y1": 505.36,
+          "x2": 723.3,
+          "y2": 664.31
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.42007,
+          "x1": 1141.3,
+          "y1": 575.94,
+          "x2": 1225.79,
+          "y2": 745.64
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.40993,
+          "x1": 1695.83,
+          "y1": 418.79,
+          "x2": 1775.91,
+          "y2": 496.12
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.40242,
+          "x1": 184.29,
+          "y1": 517.87,
+          "x2": 289.21,
+          "y2": 764.59
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.36482,
+          "x1": 1583.8,
+          "y1": 452.28,
+          "x2": 1633.73,
+          "y2": 497.76
+        },
+        {
+          "frame": 627,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.36415,
+          "x1": 1643.56,
+          "y1": 466.16,
+          "x2": 1676.11,
+          "y2": 544.8
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35417,
+          "x1": 553.01,
+          "y1": 479.58,
+          "x2": 593.25,
+          "y2": 554.46
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 30,
+      "overlaps": {
+        "total": {
+          "0.3": 9,
+          "0.5": 2
+        },
+        "same_class": {
+          "0.3": 0,
+          "0.5": 0
+        },
+        "different_class": {
+          "0.3": 9,
+          "0.5": 2
+        }
+      },
+      "detections": [
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.90743,
+          "x1": 1384.9,
+          "y1": 563.74,
+          "x2": 1591.5,
+          "y2": 733.96
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.82265,
+          "x1": 625.43,
+          "y1": 539.37,
+          "x2": 734.81,
+          "y2": 704.01
+        },
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.7614,
+          "x1": 913.0,
+          "y1": 516.38,
+          "x2": 1062.91,
+          "y2": 640.8
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.75553,
+          "x1": 449.47,
+          "y1": 454.75,
+          "x2": 532.13,
+          "y2": 520.46
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.75183,
+          "x1": 762.21,
+          "y1": 545.0,
+          "x2": 842.75,
+          "y2": 674.88
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.75007,
+          "x1": 1238.38,
+          "y1": 657.55,
+          "x2": 1413.89,
+          "y2": 801.2
+        },
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.74007,
+          "x1": 1168.14,
+          "y1": 563.33,
+          "x2": 1405.38,
+          "y2": 735.71
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.72179,
+          "x1": 901.82,
+          "y1": 594.83,
+          "x2": 1025.85,
+          "y2": 775.32
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.7109,
+          "x1": 1093.95,
+          "y1": 528.06,
+          "x2": 1285.5,
+          "y2": 629.78
+        },
+        {
+          "frame": 627,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.69696,
+          "x1": 312.56,
+          "y1": 536.72,
+          "x2": 391.21,
+          "y2": 756.29
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.67163,
+          "x1": 1574.82,
+          "y1": 575.95,
+          "x2": 1681.79,
+          "y2": 720.06
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.66966,
+          "x1": 764.35,
+          "y1": 489.9,
+          "x2": 838.17,
+          "y2": 647.05
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.63347,
+          "x1": 1125.94,
+          "y1": 613.6,
+          "x2": 1252.49,
+          "y2": 785.5
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.58631,
+          "x1": 585.88,
+          "y1": 517.63,
+          "x2": 631.2,
+          "y2": 595.61
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.57861,
+          "x1": 1278.02,
+          "y1": 609.35,
+          "x2": 1382.18,
+          "y2": 766.92
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.57484,
+          "x1": 1713.17,
+          "y1": 574.0,
+          "x2": 1891.23,
+          "y2": 744.91
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.57148,
+          "x1": 773.78,
+          "y1": 487.51,
+          "x2": 871.93,
+          "y2": 558.28
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.55034,
+          "x1": 551.95,
+          "y1": 498.03,
+          "x2": 600.53,
+          "y2": 565.99
+        },
+        {
+          "frame": 627,
+          "class_id": 11,
+          "class_name": "bicycle",
+          "confidence": 0.53203,
+          "x1": 138.9,
+          "y1": 631.48,
+          "x2": 335.43,
+          "y2": 777.84
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.52765,
+          "x1": 27.27,
+          "y1": 503.83,
+          "x2": 105.83,
+          "y2": 577.37
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.50819,
+          "x1": 1861.37,
+          "y1": 683.5,
+          "x2": 1919.83,
+          "y2": 1048.56
+        },
+        {
+          "frame": 627,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.50387,
+          "x1": 640.05,
+          "y1": 445.19,
+          "x2": 715.95,
+          "y2": 525.11
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.4885,
+          "x1": 902.47,
+          "y1": 529.29,
+          "x2": 1017.2,
+          "y2": 723.56
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.43187,
+          "x1": 643.01,
+          "y1": 505.36,
+          "x2": 723.3,
+          "y2": 664.31
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.42007,
+          "x1": 1141.3,
+          "y1": 575.94,
+          "x2": 1225.79,
+          "y2": 745.64
+        },
+        {
+          "frame": 627,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.40993,
+          "x1": 1695.83,
+          "y1": 418.79,
+          "x2": 1775.91,
+          "y2": 496.12
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.40242,
+          "x1": 184.29,
+          "y1": 517.87,
+          "x2": 289.21,
+          "y2": 764.59
+        },
+        {
+          "frame": 627,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.36482,
+          "x1": 1583.8,
+          "y1": 452.28,
+          "x2": 1633.73,
+          "y2": 497.76
+        },
+        {
+          "frame": 627,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.36415,
+          "x1": 1643.56,
+          "y1": 466.16,
+          "x2": 1676.11,
+          "y2": 544.8
+        },
+        {
+          "frame": 627,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35417,
+          "x1": 553.01,
+          "y1": 479.58,
+          "x2": 593.25,
+          "y2": 554.46
+        }
+      ]
+    }
+  },
+  "661": {
+    "baseline": {
+      "detection_count": 39,
+      "overlaps": {
+        "total": {
+          "0.3": 18,
+          "0.5": 8
+        },
+        "same_class": {
+          "0.3": 5,
+          "0.5": 3
+        },
+        "different_class": {
+          "0.3": 13,
+          "0.5": 5
+        }
+      },
+      "detections": [
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.87137,
+          "x1": 617.87,
+          "y1": 508.67,
+          "x2": 748.63,
+          "y2": 609.4
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.8293,
+          "x1": 1771.29,
+          "y1": 521.75,
+          "x2": 1919.75,
+          "y2": 691.88
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.80072,
+          "x1": 838.15,
+          "y1": 503.46,
+          "x2": 990.3,
+          "y2": 684.68
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.77283,
+          "x1": 1581.96,
+          "y1": 598.97,
+          "x2": 1758.79,
+          "y2": 745.52
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.76559,
+          "x1": 942.62,
+          "y1": 485.72,
+          "x2": 1056.99,
+          "y2": 577.44
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.72576,
+          "x1": 1146.45,
+          "y1": 565.09,
+          "x2": 1347.23,
+          "y2": 747.74
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.70956,
+          "x1": 1382.64,
+          "y1": 597.68,
+          "x2": 1517.03,
+          "y2": 711.88
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.70727,
+          "x1": 1059.12,
+          "y1": 597.83,
+          "x2": 1169.44,
+          "y2": 743.29
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.69692,
+          "x1": 475.5,
+          "y1": 524.39,
+          "x2": 566.92,
+          "y2": 666.16
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.68964,
+          "x1": 775.73,
+          "y1": 598.09,
+          "x2": 909.35,
+          "y2": 761.01
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.6878,
+          "x1": 1777.19,
+          "y1": 695.63,
+          "x2": 1920.0,
+          "y2": 929.64
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.6795,
+          "x1": 483.26,
+          "y1": 480.28,
+          "x2": 573.3,
+          "y2": 636.06
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.65175,
+          "x1": 1368.08,
+          "y1": 757.4,
+          "x2": 1606.23,
+          "y2": 958.52
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.61256,
+          "x1": 1346.73,
+          "y1": 563.46,
+          "x2": 1633.53,
+          "y2": 697.01
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.56353,
+          "x1": 790.85,
+          "y1": 543.97,
+          "x2": 900.97,
+          "y2": 740.96
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.55809,
+          "x1": 688.76,
+          "y1": 475.69,
+          "x2": 762.18,
+          "y2": 534.47
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.5558,
+          "x1": 1053.16,
+          "y1": 513.43,
+          "x2": 1207.61,
+          "y2": 703.72
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.53054,
+          "x1": 1073.86,
+          "y1": 573.83,
+          "x2": 1161.72,
+          "y2": 722.42
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.52828,
+          "x1": 134.39,
+          "y1": 650.85,
+          "x2": 344.34,
+          "y2": 797.76
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52532,
+          "x1": 1020.18,
+          "y1": 524.44,
+          "x2": 1081.69,
+          "y2": 626.42
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52119,
+          "x1": 1623.07,
+          "y1": 573.34,
+          "x2": 1710.92,
+          "y2": 721.06
+        },
+        {
+          "frame": 661,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.51541,
+          "x1": 372.91,
+          "y1": 465.29,
+          "x2": 407.35,
+          "y2": 561.02
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.50683,
+          "x1": 1017.27,
+          "y1": 554.74,
+          "x2": 1088.45,
+          "y2": 632.82
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.49015,
+          "x1": 249.9,
+          "y1": 626.0,
+          "x2": 413.31,
+          "y2": 749.19
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.4874,
+          "x1": 710.51,
+          "y1": 569.94,
+          "x2": 772.18,
+          "y2": 672.4
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.47833,
+          "x1": 1193.44,
+          "y1": 512.5,
+          "x2": 1369.67,
+          "y2": 612.26
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.45885,
+          "x1": 1257.65,
+          "y1": 652.34,
+          "x2": 1425.47,
+          "y2": 808.05
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.45825,
+          "x1": 0.26,
+          "y1": 551.21,
+          "x2": 173.34,
+          "y2": 717.91
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.45271,
+          "x1": 751.54,
+          "y1": 475.8,
+          "x2": 892.73,
+          "y2": 725.68
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.44981,
+          "x1": 556.95,
+          "y1": 520.95,
+          "x2": 600.01,
+          "y2": 613.61
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.42072,
+          "x1": 248.35,
+          "y1": 487.99,
+          "x2": 363.57,
+          "y2": 560.94
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.41815,
+          "x1": 164.67,
+          "y1": 581.3,
+          "x2": 298.43,
+          "y2": 787.76
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.41227,
+          "x1": 712.11,
+          "y1": 502.12,
+          "x2": 797.9,
+          "y2": 662.5
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.39109,
+          "x1": 248.42,
+          "y1": 583.52,
+          "x2": 353.9,
+          "y2": 719.54
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.36391,
+          "x1": 1061.72,
+          "y1": 512.86,
+          "x2": 1204.41,
+          "y2": 619.48
+        },
+        {
+          "frame": 661,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.35891,
+          "x1": 387.72,
+          "y1": 461.54,
+          "x2": 412.11,
+          "y2": 558.34
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.35733,
+          "x1": 489.84,
+          "y1": 524.3,
+          "x2": 578.35,
+          "y2": 655.04
+        },
+        {
+          "frame": 661,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.35595,
+          "x1": 365.36,
+          "y1": 467.38,
+          "x2": 401.59,
+          "y2": 561.24
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35403,
+          "x1": 616.95,
+          "y1": 477.12,
+          "x2": 663.9,
+          "y2": 554.55
+        }
+      ]
+    },
+    "agnostic_nms": {
+      "detection_count": 39,
+      "overlaps": {
+        "total": {
+          "0.3": 18,
+          "0.5": 8
+        },
+        "same_class": {
+          "0.3": 5,
+          "0.5": 3
+        },
+        "different_class": {
+          "0.3": 13,
+          "0.5": 5
+        }
+      },
+      "detections": [
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.87137,
+          "x1": 617.87,
+          "y1": 508.67,
+          "x2": 748.63,
+          "y2": 609.4
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.8293,
+          "x1": 1771.29,
+          "y1": 521.75,
+          "x2": 1919.75,
+          "y2": 691.88
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.80072,
+          "x1": 838.15,
+          "y1": 503.46,
+          "x2": 990.3,
+          "y2": 684.68
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.77283,
+          "x1": 1581.96,
+          "y1": 598.97,
+          "x2": 1758.79,
+          "y2": 745.52
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.76559,
+          "x1": 942.62,
+          "y1": 485.72,
+          "x2": 1056.99,
+          "y2": 577.44
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.72576,
+          "x1": 1146.45,
+          "y1": 565.09,
+          "x2": 1347.23,
+          "y2": 747.74
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.70956,
+          "x1": 1382.64,
+          "y1": 597.68,
+          "x2": 1517.03,
+          "y2": 711.88
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.70727,
+          "x1": 1059.12,
+          "y1": 597.83,
+          "x2": 1169.44,
+          "y2": 743.29
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.69692,
+          "x1": 475.5,
+          "y1": 524.39,
+          "x2": 566.92,
+          "y2": 666.16
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.68964,
+          "x1": 775.73,
+          "y1": 598.09,
+          "x2": 909.35,
+          "y2": 761.01
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.6878,
+          "x1": 1777.19,
+          "y1": 695.63,
+          "x2": 1920.0,
+          "y2": 929.64
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.6795,
+          "x1": 483.26,
+          "y1": 480.28,
+          "x2": 573.3,
+          "y2": 636.06
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.65175,
+          "x1": 1368.08,
+          "y1": 757.4,
+          "x2": 1606.23,
+          "y2": 958.52
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.61256,
+          "x1": 1346.73,
+          "y1": 563.46,
+          "x2": 1633.53,
+          "y2": 697.01
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.56353,
+          "x1": 790.85,
+          "y1": 543.97,
+          "x2": 900.97,
+          "y2": 740.96
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.55809,
+          "x1": 688.76,
+          "y1": 475.69,
+          "x2": 762.18,
+          "y2": 534.47
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.5558,
+          "x1": 1053.16,
+          "y1": 513.43,
+          "x2": 1207.61,
+          "y2": 703.72
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.53054,
+          "x1": 1073.86,
+          "y1": 573.83,
+          "x2": 1161.72,
+          "y2": 722.42
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.52828,
+          "x1": 134.39,
+          "y1": 650.85,
+          "x2": 344.34,
+          "y2": 797.76
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52532,
+          "x1": 1020.18,
+          "y1": 524.44,
+          "x2": 1081.69,
+          "y2": 626.42
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.52119,
+          "x1": 1623.07,
+          "y1": 573.34,
+          "x2": 1710.92,
+          "y2": 721.06
+        },
+        {
+          "frame": 661,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.51541,
+          "x1": 372.91,
+          "y1": 465.29,
+          "x2": 407.35,
+          "y2": 561.02
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.50683,
+          "x1": 1017.27,
+          "y1": 554.74,
+          "x2": 1088.45,
+          "y2": 632.82
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.49015,
+          "x1": 249.9,
+          "y1": 626.0,
+          "x2": 413.31,
+          "y2": 749.19
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.4874,
+          "x1": 710.51,
+          "y1": 569.94,
+          "x2": 772.18,
+          "y2": 672.4
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.47833,
+          "x1": 1193.44,
+          "y1": 512.5,
+          "x2": 1369.67,
+          "y2": 612.26
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.45885,
+          "x1": 1257.65,
+          "y1": 652.34,
+          "x2": 1425.47,
+          "y2": 808.05
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.45825,
+          "x1": 0.26,
+          "y1": 551.21,
+          "x2": 173.34,
+          "y2": 717.91
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.45271,
+          "x1": 751.54,
+          "y1": 475.8,
+          "x2": 892.73,
+          "y2": 725.68
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.44981,
+          "x1": 556.95,
+          "y1": 520.95,
+          "x2": 600.01,
+          "y2": 613.61
+        },
+        {
+          "frame": 661,
+          "class_id": 2,
+          "class_name": "car",
+          "confidence": 0.42072,
+          "x1": 248.35,
+          "y1": 487.99,
+          "x2": 363.57,
+          "y2": 560.94
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.41815,
+          "x1": 164.67,
+          "y1": 581.3,
+          "x2": 298.43,
+          "y2": 787.76
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.41227,
+          "x1": 712.11,
+          "y1": 502.12,
+          "x2": 797.9,
+          "y2": 662.5
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.39109,
+          "x1": 248.42,
+          "y1": 583.52,
+          "x2": 353.9,
+          "y2": 719.54
+        },
+        {
+          "frame": 661,
+          "class_id": 4,
+          "class_name": "autorickshaw",
+          "confidence": 0.36391,
+          "x1": 1061.72,
+          "y1": 512.86,
+          "x2": 1204.41,
+          "y2": 619.48
+        },
+        {
+          "frame": 661,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.35891,
+          "x1": 387.72,
+          "y1": 461.54,
+          "x2": 412.11,
+          "y2": 558.34
+        },
+        {
+          "frame": 661,
+          "class_id": 0,
+          "class_name": "motorcycle",
+          "confidence": 0.35733,
+          "x1": 489.84,
+          "y1": 524.3,
+          "x2": 578.35,
+          "y2": 655.04
+        },
+        {
+          "frame": 661,
+          "class_id": 3,
+          "class_name": "person",
+          "confidence": 0.35595,
+          "x1": 365.36,
+          "y1": 467.38,
+          "x2": 401.59,
+          "y2": 561.24
+        },
+        {
+          "frame": 661,
+          "class_id": 1,
+          "class_name": "rider",
+          "confidence": 0.35403,
+          "x1": 616.95,
+          "y1": 477.12,
+          "x2": 663.9,
+          "y2": 554.55
+        }
+      ]
+    }
+  }
+}

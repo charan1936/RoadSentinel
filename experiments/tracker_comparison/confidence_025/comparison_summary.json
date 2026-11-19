@@ -1,0 +1,41 @@
+[
+  {
+    "tracker": "botsort_conf025",
+    "tracker_config": "C:\\Projects\\RoadSentinel\\.venv\\Lib\\site-packages\\ultralytics\\cfg\\trackers\\botsort.yaml",
+    "model": "D:\\RoadSentinel-Datasets\\training-runs\\idd_yolov8n_full\\weights\\best.pt",
+    "video": "C:\\Users\\Admin\\Desktop\\BTECH\\RoadSentinel\\samples\\road_video.mp4",
+    "confidence": 0.25,
+    "image_size": 640,
+    "device": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "expected_frames": 1170,
+    "processed_frames": 1170,
+    "fps": 30.0,
+    "duration_seconds": 39.0,
+    "runtime_seconds": 136.67,
+    "processing_fps": 8.56,
+    "total_detections": 15527,
+    "unique_track_ids": 1308,
+    "class_inconsistent_tracks": 784,
+    "class_consistency_ratio": 0.4006,
+    "average_detections_per_track": 11.87,
+    "max_track_gap_frames": 32,
+    "class_counts": {
+      "autorickshaw": 1897,
+      "car": 4911,
+      "bus": 211,
+      "motorcycle": 4157,
+      "person": 2777,
+      "rider": 1033,
+      "bicycle": 297,
+      "traffic sign": 17,
+      "truck": 193,
+      "vehicle fallback": 9,
+      "animal": 25
+    },
+    "outputs": {
+      "csv": "C:\\Users\\Admin\\Desktop\\BTECH\\RoadSentinel\\experiments\\tracker_comparison\\confidence_025\\botsort_conf025\\botsort_conf025_detections.csv",
+      "video": "C:\\Users\\Admin\\Desktop\\BTECH\\RoadSentinel\\experiments\\tracker_comparison\\confidence_025\\botsort_conf025\\botsort_conf025_annotated.mp4",
+      "summary": "C:\\Users\\Admin\\Desktop\\BTECH\\RoadSentinel\\experiments\\tracker_comparison\\confidence_025\\botsort_conf025\\botsort_conf025_summary.json"
+    }
+  }
+]
